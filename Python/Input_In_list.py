@@ -1,0 +1,10 @@
+marks=[]
+marks.append (int(input("Enter ist marks :")))
+marks.append (int(input("Enter 2nd marks :")))
+marks.append (int(input("Enter 3rd marks :")))
+marks.append (int(input("Enter 4th marks :")))
+marks.append (int(input("Enter 5th marks :")))
+marks.append (int(input("Enter 6th marks :")))
+marks.append (int(input("Enter 7th marks :")))
+marks.sort()
+print(marks)
